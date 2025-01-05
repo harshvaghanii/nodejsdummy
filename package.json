@@ -4,6 +4,9 @@
   "description": "",
   "main": "server.js",
   "author": "Maximilian Schwarzmüller / Academind GmbH",
+  "scripts": {
+    "test": "node server.js"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
